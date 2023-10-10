@@ -1,0 +1,42 @@
+ 
+.cabeçalho{
+    background-color: rgb(12, 11, 11); /*coloca cor de fundo */
+    display: flex;
+    font-size: 2em;           /*coloca tamanho da fonte */
+    color: rgb(153, 202, 245);         /*coloca cor da fonte*/
+    width: 100%;                /*coloca largura da janela */
+    height: 80px;                /*coloca caltura do espaço do cabeçalho */
+    text-align: center;         /*alinha o texto do titulo */
+    justify-content: space-between;/*coloca espaço entre os objetos do cabeçalho */
+    align-items: center;
+    margin: 2cqi;          /*alinha os objetos ao centro vertical do espaço */
+}
+.logotipo{
+    width: 60px;
+    padding: 5px;
+    margin: 05px;
+}
+.botao_login{
+    background-color: #bfc4c0;
+    border-radius: 50px;
+    border: none;
+    color: #000000;
+    padding: 10px 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 29px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-image: linear-gradient(to bottom, #c7f5ca, #d0dab7);
+}
+
+
+
+
+
+
+
+
+
